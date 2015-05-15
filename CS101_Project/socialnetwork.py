@@ -27,28 +27,6 @@ Freda likes to play Starfleet Commander, Ninja Hamsters, Seahorse Adventures.\
 Jimmy is connected to Olive, John, Debra.\
 Jimmy likes to play ."
 
-"""
-1. Data Structure changed: it is now a dictionary where each name is mapped
-to a dictionary containing the keys "Connections" and "Games", where the 
-values for each are lists containing their connections and prefered games respectively.
-
-2. The procedures following the create_data_structure procedure are now more modular:
-instead of getting the connections of a user like before, we now simply call the 
-procedure 'get_connections' on that user.
-
-3.find_path procedure changed in order to pass the new autograder.
-
-4. Different MYOP: it now computes the clustering coefficient of the network.
-This is explained below.
-
-5. More comments explaining the logic and functionality of the code.
-
-6. Three relevant updates included.
-
-7. get_secondary_connections changed to also include the user themselves as a secondary connection if they are one,
-as it would not pass the updated autograder otherwise.
-
-"""
 
 # ----------------------------------------------------------------------------- 
 # create_data_structure(string_input): 
