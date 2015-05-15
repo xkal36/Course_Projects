@@ -1,3 +1,3 @@
 ### Udacity CS101 Course
 
-Final project: social network analyzer
+Final project: script that analyzes a social network.
