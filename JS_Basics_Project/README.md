@@ -1,5 +1,6 @@
-# Udacity JavaScript Basics Course
+# Udacity JavaScript Basics Course: Resume Project
 
-# The Resume Project
+
+Full app can be found [here](http://ancient-wildwood-4076.herokuapp.com/)
 
 
