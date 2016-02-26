@@ -13,6 +13,6 @@ This will open up the webpage in your default browser and creates the html file 
 # Requirements:
 Python 2.7
 
-![alt tag](https://github.com/xkal36/Course_Projects/blob/master/Movie_Trailer_Website/certificate.pdf)
+
 
 
