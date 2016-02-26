@@ -12,3 +12,5 @@ This will open up the webpage in your default browser and creates the html file 
 
 # Requirements:
 Python 2.7
+
+[certificate.pdf](http://xkal36.github.io/Course_Projects/Movie_Trailer_Website/certificate.pdf)
